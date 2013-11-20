@@ -1,0 +1,9 @@
+[submodule "util"]
+	path = util
+	url = git@github.com:Unhelpful/Java-util.git
+[submodule "TicTacToe_Android"]
+	path = TicTacToe_Android
+	url = git@github.com:Unhelpful/TicTacToe_Android.git
+[submodule "TicTacToe_lib"]
+	path = TicTacToe_lib
+	url = git@github.com:Unhelpful/TicTacToe.git
