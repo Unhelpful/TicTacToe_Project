@@ -7,3 +7,6 @@
 [submodule "TicTacToe_lib"]
 	path = TicTacToe_lib
 	url = git@github.com:Unhelpful/TicTacToe.git
+[submodule "Spotlight"]
+	path = Spotlight
+	url = ./Spotlight

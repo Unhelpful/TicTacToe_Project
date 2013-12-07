@@ -8,5 +8,4 @@ buildscript {
     }
 }
 
-include "util", "TicTacToe_lib", "TicTacToe_Android"
-
+include ":util", ":TicTacToe_lib" , ":TicTacToe_Android", ":BoardImage", ":Spotlight:library"
